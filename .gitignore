@@ -2,7 +2,7 @@
 .env
 
 # Ignore all files with a specific extension
-
+package.lock.json
 
 # Ignore a specific directory and its contents
 /node_modules/
