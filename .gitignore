@@ -2,7 +2,6 @@
 .env
 
 # Ignore all files with a specific extension
-*.json
 
 
 # Ignore a specific directory and its contents
